@@ -1,0 +1,13 @@
+C:\Users\DEV\Desktop\cadastro-de-alunos\bin\Debug\netcoreapp3.1\cadastro-de-alunos.exe
+C:\Users\DEV\Desktop\cadastro-de-alunos\bin\Debug\netcoreapp3.1\cadastro-de-alunos.deps.json
+C:\Users\DEV\Desktop\cadastro-de-alunos\bin\Debug\netcoreapp3.1\cadastro-de-alunos.runtimeconfig.json
+C:\Users\DEV\Desktop\cadastro-de-alunos\bin\Debug\netcoreapp3.1\cadastro-de-alunos.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\cadastro-de-alunos\bin\Debug\netcoreapp3.1\cadastro-de-alunos.dll
+C:\Users\DEV\Desktop\cadastro-de-alunos\bin\Debug\netcoreapp3.1\cadastro-de-alunos.pdb
+C:\Users\DEV\Desktop\cadastro-de-alunos\obj\Debug\netcoreapp3.1\cadastro-de-alunos.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\cadastro-de-alunos\obj\Debug\netcoreapp3.1\cadastro-de-alunos.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\cadastro-de-alunos\obj\Debug\netcoreapp3.1\cadastro-de-alunos.AssemblyInfo.cs
+C:\Users\DEV\Desktop\cadastro-de-alunos\obj\Debug\netcoreapp3.1\cadastro-de-alunos.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\cadastro-de-alunos\obj\Debug\netcoreapp3.1\cadastro-de-alunos.dll
+C:\Users\DEV\Desktop\cadastro-de-alunos\obj\Debug\netcoreapp3.1\cadastro-de-alunos.pdb
+C:\Users\DEV\Desktop\cadastro-de-alunos\obj\Debug\netcoreapp3.1\cadastro-de-alunos.genruntimeconfig.cache
